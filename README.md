@@ -33,10 +33,10 @@ Anggota   :  <p>Bungaran Martua Pakpahan (11S19001)</p>
 
 4. Fitur-fitur Website
 
-* 
-* 
-* 
-* 
-* 
-* 
+* Beranda
+* Jadwal Piket
+* Kelola
+* Keluar
+
+
 
