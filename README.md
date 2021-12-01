@@ -7,10 +7,9 @@ Anggota   :  <p>Bungaran Martua Pakpahan (11S19001)</p>
              <p>Handy Sonflow Sitepu (11S19051)</p>
 
 
-1. Link Repository : https://github.com/gabryella-apriani-sinaga/Kelompok-7-proyek-pabwe
-2. Link Youtube proyek kel.7 : https://youtu.be/ZNh2hyKROjA
+1. Link Repository : https://github.com/gabryella-apriani-sinaga/Proyek-II-Pabwe
+2. Link Youtube proyek kel.7 : 
 3. Spesifikasi HardWare Laptop
-
 * Platform
 * Operating system, development tools, bahasa yang digunakan untuk pengembangan dan juga pengoperasian Website.
 * Opearting system 		: Browser seperti Google Chrome
