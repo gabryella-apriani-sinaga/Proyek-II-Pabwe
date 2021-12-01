@@ -17,8 +17,7 @@ Anggota   :  <p>Bungaran Martua Pakpahan (11S19001)</p>
 * Bahasa Pemrograman 		: PHP, Javascript
 
 * Development Requirement
-* Adapun tools yang digunakan selama pengembangan website adalaha sebagai 
-* berikut:
+* Adapun tools yang digunakan selama pengembangan website adalaha sebagai berikut:
 1. Visual Studio Code
 2. XAMPP
 3. Chrome Browser
