@@ -11,10 +11,21 @@ Anggota   :  <p>Bungaran Martua Pakpahan (11S19001)</p>
 2. Link Youtube proyek kel.7 : https://youtu.be/ZNh2hyKROjA
 3. Spesifikasi HardWare Laptop
 
-* 8 GB RAM
-* Intel i5 3.4 GHz
-* 1000 GB HDD storage
-* Intel HD Graphics 2GB
+* Platform
+* Operating system, development tools, bahasa yang digunakan untuk pengembangan dan juga pengoperasian Website.
+* Opearting system 		: Browser seperti Google Chrome
+* Development tools		: Laravel 8
+* Bahasa Pemrograman 		: PHP, Javascript
+
+* Development Requirement
+* Adapun tools yang digunakan selama pengembangan website adalaha sebagai 
+* berikut:
+1. Visual Studio Code
+2. XAMPP
+3. Chrome Browser
+4. Laravel Framework
+
+
 
 3. Spesifikasi Software
 
