@@ -12,7 +12,7 @@ Anggota   :  <p>Bungaran Martua Pakpahan (11S19001)</p>
 3. Spesifikasi HardWare Laptop
 * Platform
 * Operating system, development tools, bahasa yang digunakan untuk pengembangan dan juga pengoperasian Website.
-* Opearting system 		: Browser seperti Google Chrome
+* Opearting system 		: Browser seperti Google Chrome dan Microsoft Edge
 * Development tools		: Laravel 8
 * Bahasa Pemrograman 		: PHP, Javascript
 
