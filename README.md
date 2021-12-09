@@ -8,7 +8,7 @@ Anggota   :  <p>Bungaran Martua Pakpahan (11S19001)</p>
 
 
 1. Link Repository : https://github.com/gabryella-apriani-sinaga/Proyek-II-Pabwe
-2. Link Youtube proyek kel.7 : 
+2. Link Youtube proyek kel.7 : https://youtu.be/_uC8oXTVPUU
 3. Spesifikasi HardWare Laptop
 * Platform
 * Operating system, development tools, bahasa yang digunakan untuk pengembangan dan juga pengoperasian Website.
